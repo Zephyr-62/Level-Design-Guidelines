@@ -1,18 +1,26 @@
 title: Level Design Guidelines
 description: Proposed structure of Guidelines to learn Level Design that can also be used as a toolkit. 
 theme: just-the-docs
+baseurl: ""
 
 favicon_ico: "/assets/images/favicon.png"
 
 url: https://zephyr-62.github.io/Level-Design-Guidelines/
 
-nav:
-  - Home: index.md
-  - Level Design Guidelines:
-      - Scope & Context: level-design/scope.md
-      - Design Practices: level-design/practices.md
-      - Design Considerations: level-design/considerations.md
-      - List of Guidelines: level-design/tools.md
-      - How to Apply in Production: level-design/production.md
-      - Glossary: level-design/glossary.md
-  - References: level-design/references.md
+markdown: kramdown
+
+callouts:
+    highlight:
+        color: blue
+    important:
+        title: Important
+        color: yellow
+    new:
+        title: New
+        color: green
+    note:
+        title: Note
+        color: purple
+    warning:
+        title: Warning
+        color: red
