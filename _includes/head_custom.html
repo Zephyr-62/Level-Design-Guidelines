@@ -3,7 +3,7 @@
         /* Always Expand guidelines menu */
         {
             document.querySelectorAll(
-                'a[href="/docs/guidelines.html"]'
+                'a[href*="guidelines.html"]'
             ).forEach(target => {
                 target.parentElement.classList.add("active");
             });
