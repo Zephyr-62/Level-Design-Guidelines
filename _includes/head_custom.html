@@ -1,10 +1,72 @@
-<script>
+<script>  
     document.addEventListener("DOMContentLoaded", function () {
-    document.querySelectorAll(
-        'a[href$=".png"], a[href$=".jpg"], a[href$=".jpeg"], a[href$=".gif"]'
-    ).forEach(link => {
-        link.setAttribute('target', '_blank');
-        link.setAttribute('rel', 'noopener noreferrer');
-    });
+        /* Always Expand guidelines menu */
+        {
+            document.querySelectorAll(
+                'a[href="/docs/guidelines.html"]'
+            ).forEach(target => {
+                target.parentElement.classList.add("active");
+            });
+        }
+
+        /* Open image links in a new tab */
+        {
+
+            document.querySelectorAll(
+                'a[href$=".png"], a[href$=".jpg"], a[href$=".jpeg"], a[href$=".gif"]'
+            ).forEach(link => {
+                link.setAttribute('target', '_blank');
+                link.setAttribute('rel', 'noopener noreferrer');
+            });   
+        }
+        
+        /* Move table of contents underneath the navigation */
+        {
+
+            const toc = document.getElementById('manual-toc');
+            const sidebar = document.querySelector('.side-bar');
+            const footer = document.querySelector('.site-footer');
+            
+            if (toc && sidebar && footer) {
+                sidebar.insertBefore(toc, footer);
+                console.log("Moved TOC under navigation");
+            }
+        }
+
+        /* Highlight active section in table of contents */
+        {
+
+            const tocLinks = document.querySelectorAll('#manual-toc a');
+            const headings = Array.from(tocLinks).map(link => {
+                    return document.querySelector(link.getAttribute('href'));
+                }).filter(h => h !== null);
+            console.log("Headings for TOC:", headings);
+            
+            const observerOptions = {
+                root: null,
+                rootMargin: '0px 0px -90% 0px', /* Trigger when header is in the top 20% of the viewport */
+                threshold: 0
+            };
+            
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        /* Remove active class from all links */
+                        tocLinks.forEach(link => link.classList.remove('active-section'));
+                        
+                        /* Add active class to the link corresponding to this heading */
+                        const id = entry.target.getAttribute('id');
+                        const activeLink = document.querySelector(`#manual-toc a[href="#${id}"]`);
+                        if (activeLink) {
+                            activeLink.classList.add('active-section');
+                        }
+                    }
+                });
+            }, observerOptions);
+            
+            headings.forEach(heading => observer.observe(heading));
+        }
+
+        
     });
 </script>

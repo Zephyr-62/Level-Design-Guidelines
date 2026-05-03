@@ -36,10 +36,12 @@ Here is where we implement sightlines, uncertainty, variety, choices, pacing, br
 
 ----
 
-## Page Structure
+<div id="manual-toc" class="custom-toc-container site-nav" markdown="1" >
+**Page Structure**
 {: .no_toc .text-delta }
 1. TOC
 {:toc}
+</div>
 
 # Description
 

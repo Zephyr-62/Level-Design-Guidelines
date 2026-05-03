@@ -12,8 +12,13 @@ Including these as in-text references would not only be an arduous task, but it 
 For these reasons this approach serves as an alternative. 
 What follows is a list of sources about level design, where each entry summarizes the concepts or guidelines it contributes to.
 
+<div id="manual-toc" class="custom-toc-container site-nav" markdown="1" >
+**Page Structure**
+{: .no_toc .text-delta }
 - TOC
 {:toc}
+</div>
+
 # Description of Sources
 ## Publications
 - **A Phenomenological Approach to the Design of Spatial Experience in Open-world Games**. [^MeaningfulPlaces]

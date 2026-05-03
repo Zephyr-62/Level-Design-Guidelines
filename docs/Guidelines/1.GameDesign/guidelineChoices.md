@@ -35,10 +35,12 @@ So two essential things are required: **player intentionality**, and **signposti
 
 ----
 
-## Page Structure
+<div id="manual-toc" class="custom-toc-container site-nav" markdown="1">
+**Page Structure**
 {: .no_toc .text-delta }
 1. TOC
 {:toc}
+</div>
 
 # Description
 

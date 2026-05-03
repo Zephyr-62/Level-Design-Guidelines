@@ -9,6 +9,7 @@ This section goes through some common practices professional level designers app
 This is just a collection of the most relevant practices.
 They are presented in no particular order, so you can read them as independent pieces of information to consider when working on a video game.
 
+
 ## Iteration Pipeline 
 The most basic practice that is always present in any project is iteration. 
 Approach the design process in small steps and loop through them to find out what works and tune the result to your specific needs.

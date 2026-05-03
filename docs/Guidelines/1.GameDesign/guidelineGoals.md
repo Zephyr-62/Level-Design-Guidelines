@@ -12,10 +12,12 @@ Game Design
 {: .warning }
 This page is a Work in Progress
 
-## Page Structure
+<div id="manual-toc" class="custom-toc-container site-nav" markdown="1">
+**Page Structure**
 {: .no_toc .text-delta }
 1. TOC
 {:toc}
+</div>
 
 
 # Description

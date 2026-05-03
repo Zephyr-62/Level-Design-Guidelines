@@ -33,10 +33,12 @@ A specific type of POI is a *landmark*, which describes a location with a large 
 
 ----
 
-## Page Structure
+<div id="manual-toc" class="custom-toc-container site-nav" markdown="1">
+**Page Structure**
 {: .no_toc .text-delta }
 1. TOC
 {:toc}
+</div>
 
 # Description
 

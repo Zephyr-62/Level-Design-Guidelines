@@ -40,10 +40,12 @@ Here we have an interesting opportunity to apply the concept of *signposting*.
 
 ----
 
-## Page Structure
+<div id="manual-toc" class="custom-toc-container site-nav" markdown="1" >
+**Page Structure**
 {: .no_toc .text-delta }
 1. TOC
 {:toc}
+</div>
 
 # Description
 

@@ -3,7 +3,7 @@ description: Proposed structure of Guidelines to learn Level Design that can als
 theme: just-the-docs
 baseurl: ""
 
-favicon_ico: "/assets/images/favicon.png"
+favicon_ico: /images/favicon.png
 
 url: https://zephyr-62.github.io/Level-Design-Guidelines/
 

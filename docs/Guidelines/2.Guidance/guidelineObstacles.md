@@ -64,10 +64,12 @@ One important consideration is that a designer should always aim for locks to be
 
 ----
 
-## Page Structure
+<div id="manual-toc" class="custom-toc-container site-nav" markdown="1" >
+**Page Structure**
 {: .no_toc .text-delta }
 1. TOC
 {:toc}
+</div>
 
 # Description
 

@@ -41,10 +41,12 @@ If this space is usable, we can benefit from the concept of *backtracking*, wher
 
 ----
 
-## Page Structure
+<div id="manual-toc" class="custom-toc-container site-nav" markdown="1" >
+**Page Structure**
 {: .no_toc .text-delta }
 1. TOC
 {:toc}
+</div>
 
 # Description
 
