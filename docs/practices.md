@@ -106,5 +106,5 @@ Metrics are a primordial tool used to build these development scenes.
 *Action blocks* could be displayed in this type of space.
 
 --- 
-[^1]: See [Level design planning for open-world games](/docs/references/#LevelDesignPlanning) in the References
-[^2]: See [Spatial documentation: Gyms, zoos, and museums](/docs/references/#SpatialDocumentation) in the References
+[^1]: See [Level design planning for open-world games](/docs/references#LevelDesignPlanning) in the References
+[^2]: See [Spatial documentation: Gyms, zoos, and museums](/docs/references#SpatialDocumentation) in the References
