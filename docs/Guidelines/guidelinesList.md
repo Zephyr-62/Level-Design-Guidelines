@@ -19,4 +19,4 @@ Then, the guidance category presents tools and theory that can be used to influe
 
 #### Guidelines Overview
 {: .no_toc }
-[![Guidelines Overview Diagram](../../../images/Diagrams/GuidelinesOverview.png)](../../../images/Diagrams/GuidelinesOverview.png)
+[![Guidelines Overview Diagram](../../images/Diagrams/GuidelinesOverview.png)](../../images/Diagrams/GuidelinesOverview.png)
