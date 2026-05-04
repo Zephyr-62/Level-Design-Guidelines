@@ -51,4 +51,4 @@ No approach is better than the other, just remember that which one is best fit f
 
 
 --- 
-[^1]: See [Level design planning for open-world games](/docs/references#LevelDesignPlanning) in the References
+[^1]: See [Level design planning for open-world games]({{ '/docs/references#LevelDesignPlanning' | relative_url }}) in the References

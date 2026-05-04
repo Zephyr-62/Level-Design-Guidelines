@@ -105,6 +105,7 @@ Metrics are a primordial tool used to build these development scenes.
 - Museums focus on displaying systems and interactions with in depth explanations on how they function or how they can be implemented. These share some similarities with Zoos, but the content displayed is more dynamic, e.g. how the grass reacts when it is set on fire.
 *Action blocks* could be displayed in this type of space.
 
---- 
-[^1]: See [Level design planning for open-world games](/docs/references#LevelDesignPlanning) in the References
-[^2]: See [Spatial documentation: Gyms, zoos, and museums](/docs/references#SpatialDocumentation) in the References
+----
+
+[^1]: See [Level design planning for open-world games]({{ '/docs/references#LevelDesignPlanning' | relative_url }}) in the References
+[^2]: See [Spatial documentation: Gyms, zoos, and museums]({{ '/docs/references#SpatialDocumentation' | relative_url }}) in the References
