@@ -13,6 +13,11 @@ Game Design
 {: .warning }
 This page is a Work in Progress
 
+#### Guideline Overview
+{: .no_toc }
+[![Meaning Overview Diagram](../../../images/Diagrams/MeaningDiagram.png)](../../../images/Diagrams/MeaningDiagram.png)
+
+
 ----
 
 ## WIP Summary

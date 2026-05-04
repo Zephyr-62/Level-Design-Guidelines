@@ -1,11 +1,10 @@
 ---
 title: Spatial Communication
 layout: default
-nav_order: 4
-parent: List of Guidelines
-has_toc: false
+nav_order: 1
+parent: Spaces
 ---
-Spatial Communication
+Spaces
 {: .label .label-red }
 
 
@@ -13,6 +12,11 @@ Spatial Communication
 
 {: .warning }
 This page is a Work in Progress
+
+#### Guideline Overview
+{: .no_toc }
+[![Spatial Communication Overview Diagram](../../../images/Diagrams/SpatialCommunicationDiagram.png)](../../../images/Diagrams/SpatialCommunicationDiagram.png)
+
 
 ----
 

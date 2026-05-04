@@ -19,6 +19,9 @@ This page is a Work in Progress
 {:toc}
 </div>
 
+#### Guideline Overview
+{: .no_toc }
+[![Goals Overview Diagram](../../../images/Diagrams/GoalsDiagram.png)](../../../images/Diagrams/GoalsDiagram.png)
 
 # Description
 

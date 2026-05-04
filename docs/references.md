@@ -127,6 +127,36 @@ What follows is a list of sources about level design, where each entry summarize
     It mentions concepts like: layering goals, pacing, clear objectives, meaningful choices, meaning (narrative relatedness to the player), and signposting.        
 
 ----
+
+# Ludography
+This is a list of all the games mentioned in the text:
+- The Binding of Isaac (2011)
+- Bloodborne (2015)
+- Celeste (2018)
+- Chants of Sennaar (2023)     
+- Dead Cells (2017)
+- Doom series (1993)
+- Elden Ring (2022)
+- Enter the Gungeon (2016)
+- GTA series (1997)
+- Hogwarts Legacy (2023)        
+- Hollow Knight: Silksong (2025)        
+- The Last of Us series (2013)
+- The Legend of Zelda series (1986)
+- Minecraft (2011)
+- Mirror's Edge (2008)
+- Noita (2019)
+- Outer Wilds (2019)
+- Rain World (2017)
+- Sable (2021)
+- Satisfactory (2024)
+- Subnautica (2018)
+- Sunset Overdrive (2014)
+- Uncharted series (2007)
+- XCOM 2 (2016)
+
+----
+
 # APA References
 
 

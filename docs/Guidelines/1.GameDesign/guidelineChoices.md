@@ -7,8 +7,15 @@ parent: Engagement
 Game Design
 {: .label .label-purple }
 
+<h1>Choices</h1>
+
 {: .warning }
 This page is a Work in Progress
+
+#### Guideline Overview
+{: .no_toc }
+[![Choices Overview Diagram](../../../images/Diagrams/ChoicesDiagram.png)](../../../images/Diagrams/ChoicesDiagram.png)
+
 
 ----
 
@@ -31,8 +38,6 @@ For this purpose, they have to know that this is a possibility the game presents
 This is strongly related to how [Goals](./guidelineGoals.md) are implemented, following the same principles.
 So two essential things are required: **player intentionality**, and **signposting**. 
 
-
-
 ----
 
 <div id="manual-toc" class="custom-toc-container site-nav" markdown="1">
@@ -41,6 +46,7 @@ So two essential things are required: **player intentionality**, and **signposti
 1. TOC
 {:toc}
 </div>
+
 
 # Description
 

@@ -13,6 +13,11 @@ Guidance
 {: .warning }
 This page is a Work in Progress
 
+#### Guideline Overview
+{: .no_toc }
+[![POIs Overview Diagram](../../../images/Diagrams/POIsDiagram.png)](../../../images/Diagrams/POIsDiagram.png)
+
+
 ----
 
 ## WIP Summary

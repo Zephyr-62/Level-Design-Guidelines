@@ -13,6 +13,11 @@ Guidance
 {: .warning }
 This page is a Work in Progress
 
+#### Guideline Overview
+{: .no_toc }
+[![Pathing Overview Diagram](../../../images/Diagrams/PathingDiagram.png)](../../../images/Diagrams/PathingDiagram.png)
+
+
 ----
 
 ## WIP Summary

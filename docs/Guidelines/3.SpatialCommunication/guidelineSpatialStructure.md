@@ -1,10 +1,10 @@
 ---
 title: Spatial Structure
 layout: default
-nav_order: 1
-parent: Spatial Communication
+nav_order: 2
+parent: Spaces
 ---
-Spatial Communication
+Spaces
 {: .label .label-red }
 
 
@@ -12,6 +12,10 @@ Spatial Communication
 
 {: .warning }
 This page is a Work in Progress
+
+#### Guideline Overview
+{: .no_toc }
+[![Spatial Structure Overview Diagram](../../../images/Diagrams/SpatialStructureDiagram.png)](../../../images/Diagrams/SpatialStructureDiagram.png)
 
 ----
 

@@ -22,6 +22,11 @@ This page is a Work in Progress
 {:toc}
 </div>
 
+#### Guideline Overview
+{: .no_toc }
+[![Engagement Overview Diagram](../../../images/Diagrams/EngagementDiagram.png)](../../../images/Diagrams/EngagementDiagram.png)
+
+
 # Description
 This guideline is quite dense, and it contains additional sub-guidelines for specific topics.
 It provides a general definition of what engagement is constituted of, along with some brief introductions to the sub-guidelines.

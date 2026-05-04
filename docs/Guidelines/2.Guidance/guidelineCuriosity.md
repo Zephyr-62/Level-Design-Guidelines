@@ -12,6 +12,11 @@ Guidance
 {: .warning }
 This page is a Work in Progress
 
+#### Guideline Overview
+{: .no_toc }
+[![Curiosity Overview Diagram](../../../images/Diagrams/CuriosityDiagram.png)](../../../images/Diagrams/CuriosityDiagram.png)
+
+
 ---- 
 
 ## WIP Summary

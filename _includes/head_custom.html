@@ -1,11 +1,27 @@
 <script>  
     document.addEventListener("DOMContentLoaded", function () {
-        /* Always Expand guidelines menu */
+        /* Always Expand guidelines menus */
         {
-            document.querySelectorAll(
-                'a[href*="guidelines.html"]'
-            ).forEach(target => {
-                target.parentElement.classList.add("active");
+            const guidelinesMenu = document.querySelector('a[href*="guidelines.html"]');
+            const guidelinesListMenu = document.querySelector('a[href*="guidelinesList.html"]');
+            if(guidelinesMenu)
+                guidelinesMenu.parentElement.classList.add("active");
+            if(guidelinesListMenu)
+                guidelinesListMenu.parentElement.classList.add("active");
+        }
+
+        /* Color guideline categories */
+        {
+            document.querySelectorAll('.nav-list-link').forEach(link => {
+                const text = link.innerHTML.trim();
+                console.log(text);
+                if (text === "Game Design") {
+                    link.style.setProperty('color', 'blueviolet');
+                } else if (text === "Guidance") {
+                    link.style.setProperty('color', 'orange');
+                } else if (text === "Spaces") {
+                    link.style.setProperty('color', 'red');
+                }
             });
         }
 

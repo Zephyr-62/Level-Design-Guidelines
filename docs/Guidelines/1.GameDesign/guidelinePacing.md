@@ -13,6 +13,10 @@ Game Design
 {: .warning }
 This page is a Work in Progress
 
+#### Guideline Overview
+{: .no_toc }
+[![Pacing Overview Diagram](../../../images/Diagrams/PacingDiagram.png)](../../../images/Diagrams/PacingDiagram.png)
+
 ----
 
 ## WIP Summary

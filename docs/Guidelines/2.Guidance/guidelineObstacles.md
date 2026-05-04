@@ -13,6 +13,11 @@ Guidance
 {: .warning }
 This page is a Work in Progress
 
+#### Guideline Overview
+{: .no_toc }
+[![Obstacles Overview Diagram](../../../images/Diagrams/ObstaclesDiagram.png)](../../../images/Diagrams/ObstaclesDiagram.png)
+
+
 ----
 
 ## WIP Summary
