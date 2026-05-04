@@ -14,7 +14,6 @@
         {
             document.querySelectorAll('.nav-list-link').forEach(link => {
                 const text = link.innerHTML.trim();
-                console.log(text);
                 if (text === "Game Design") {
                     link.style.setProperty('color', 'blueviolet');
                 } else if (text === "Guidance") {
@@ -45,7 +44,6 @@
             
             if (toc && sidebar && footer) {
                 sidebar.insertBefore(toc, footer);
-                console.log("Moved TOC under navigation");
             }
         }
 
@@ -56,7 +54,6 @@
             const headings = Array.from(tocLinks).map(link => {
                     return document.querySelector(link.getAttribute('href'));
                 }).filter(h => h !== null);
-            console.log("Headings for TOC:", headings);
             
             const observerOptions = {
                 root: null,
