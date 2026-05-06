@@ -29,11 +29,18 @@ Throughout the text you can find several words highlighted with both italics and
 
 ## List of TODOs
 #### Content
+- Fix: consistent notation. Some key concepts and guidelines don't follow the notation rules. 
 - Finish polish on Goals and Engagement guidelines.
 - Write in detail all guidelines.
 - Add visual references for every concept explained. Use diagrams and famous games as examples.
 - Include diagram files in repo
 - Add guidelines interactive diagram (tree structure), with clickable links that take you to the definition
+- Add more missing concepts and think about their classification within the guidelines:
+  - Game Design Documents
+  - How to properly do paper prototyping: colors/values, layers, line girth, notes... 
+  - Attraction/Repulsion of players within a space
+  - Theory of readability of spaces: verticality, left to right
+  - Main VS secondary paths
 
 #### Systems & QOL
 - Think about alternative structures for the guidelines.
